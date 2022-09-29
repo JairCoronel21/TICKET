@@ -11,8 +11,10 @@
 	<link href="img/favicon.png" rel="icon" type="image/png">
 	<link href="img/favicon.ico" rel="shortcut icon">
 
-    <link rel="stylesheet" href="../../public/css/lib/summernote/summernote.css"/>
+    <link rel="stylesheet" href="../../public/css/lib/summernote/summernote.css">
     <link rel="stylesheet" href="../../public/css/separate/pages/editor.min.css">
+
+
     <link rel="stylesheet" href="../../public/css/lib/font-awesome/font-awesome.min.css">
     <link rel="stylesheet" href="../../public/css/lib/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="../../public/css/main.css">
