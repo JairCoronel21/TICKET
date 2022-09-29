@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
     <?php require_once("../MainHead/head.php") ?>
-    <title>JhardSystex - TICKETS</title>
+    <title>JhardSystex - CONSULTAR TICKET</title>
 </head>
 <body class="with-side-menu">
 
@@ -27,7 +27,7 @@
 	
    <?php require_once("../mainJS/js.php") ?>
    
-   <script type="text/javascript" src="home.js"></script>
+   <script type="text/javascript" src="consultarticket.js"></script>
 </body>
 </html>
 
